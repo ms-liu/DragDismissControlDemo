@@ -61,6 +61,7 @@ public class MainActivity extends AppCompatActivity {
 
                     @Override
                     public void onIntermediateImageSet(String id, ImageInfo imageInfo) {
+
 //                        System.out.println(id+"=====onIntermediateImageSet=============="+imageInfo);
                     }
 
